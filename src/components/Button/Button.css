@@ -1,0 +1,21 @@
+
+.main-button {
+    min-width: 4rem;
+    box-shadow: inset 0 0 0 .05rem var(--color-blue);
+    padding: .3rem 1rem;
+    border-radius: 2rem;
+    text-align: center;
+    transition: 200ms;
+}
+
+.button-text {
+    font-weight: 500;
+    color: var(--color-blue);
+}
+
+.main-button:hover {
+    box-shadow: inset 0 0 0 .1rem var(--color-blue);
+    background-color: rgba(10,102,194,0.1);
+    transition: 200ms;
+    /* no es outline es inline, pero no ecuentro la clase */
+}
