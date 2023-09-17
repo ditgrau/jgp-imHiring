@@ -22,6 +22,7 @@ body {
   --font-weight-bold: 600;
 
   --color-border: hsla(0, 0%, 54.9%, 0.2);
+  --color-blue: #0A66C2;
 }
 
 h1 {
