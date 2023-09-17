@@ -1,0 +1,50 @@
+{
+    "T-Shaped skills": [
+        {
+            "Title": "Diseño UX/UI",
+            "Icon":"",
+            "Description": "Habilidad adquirida tanto como diseñadora como developer",
+            "Accreditation": [
+                {
+                    "Title": "Figma for UX Design",
+                    "Institution": "LinkedIn"
+                },
+                {
+                    "Title": "Full Stack Developer",
+                    "Institution": "GeekHubs Academy"
+                }
+            ]
+        },
+        {
+            "Title": "Design Thinking",
+            "Icon":"",
+            "Description": "Experiencia en equipos multidisciplinares, abordando desafíos complejos para impulsar el crecimiento del negocio.",
+            "Accreditation": [
+                {
+                    "Title": "UX Foundations: Style Guides and Design Systems",
+                    "Institution": "LinkedIn"
+                },
+                {
+                    "Title": "Consultoria estratégica de negocio",
+                    "Institution": "Northway"
+                }
+            ]
+        },
+        {
+            "Title": "Responsive design",
+            "Icon":"",
+            "Description": "Habilidad adquirida tanto como diseñadora como developer",
+            "Accreditation": [
+                {
+                    "Title": "Full Stack Developer",
+                    "Institution": "GeekHubs Academy"
+                }
+            ]
+        },
+        {
+            "Title": "Metodologías ágiles",
+            "Icon":"",
+            "Description": "Experiencia trabajando con Jira y Trello, tanto en entorno académico como profesional."
+        }
+    ]
+}

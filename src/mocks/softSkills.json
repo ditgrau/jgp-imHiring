@@ -1,0 +1,25 @@
+{
+    "Soft skills": [
+        {
+            "Title": "Gestión de proyectos",
+            "Icon":"",
+            "Description": [
+                "Capacidad de trabajar bajo presión", "Adaptabilidad al cambio", "Trabajo en equipo y colaboración", "Creactividad en la resolución de problemas"
+            ]
+        },
+        {
+            "Title": "Comunicación efectiva",
+            "Icon":"",
+            "Description": [
+                "Asertividad", "Habilidad para recibir y dar feedback constructivo", "Capacidad de escucha"
+            ]
+        },
+        {
+            "Title": "Pensamiento crítico",
+            "Icon":"",
+            "Description": [
+                "Evaluación crítica", "Capacidad de análisis", "Paciencia y atención al detalle", "Comunicación técnica clara"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "Hard skills": [
+        {
+            "Title": "Adobe Creative Suite",
+            "Icon":"",
+            "Description": "Experiencia como diseñadora gráfica y como postproductora y editora en proyectos audiovisuales.",
+            "Accreditation": [
+                {
+                    "Title": "Diseño gráfico",
+                    "Institution": "Barreira Arte y Diseño, EASD Valencia"
+                }
+            ]
+        },
+        {
+            "Title": "Figma",
+            "Icon":"",
+            "Description": "Prototipado y diseño web y de aplicaciones moviles",
+            "Accreditation": [
+                {
+                    "Title": "Figma for UX Design",
+                    "Institution": "LinkedIn"
+                }
+            ]
+        },
+        {
+            "Title": "PHP - Laravel",
+            "Icon":"",
+            "Description": "Desarrollo de proyecto de backend de una aplicacion web",
+            "Accreditation": [
+                {
+                    "Title": "Full Stack Developer",
+                    "Institution": "GeekHubs Academy"
+                }
+            ]
+        },
+        {
+            "Title": "NodeJs",
+            "Icon":"",
+            "Description": "Desarrollo de proyecto de backend de una aplicacion web",
+            "Accreditation": [
+                {
+                    "Title": "Full Stack Developer",
+                    "Institution": "GeekHubs Academy"
+                }
+            ]
+        },
+        {
+            "Title": "React",
+            "Icon":"",
+            "Description": "Desarrollo de proyectos de frontend para aplicaciones web. ¡Esta web también!",
+            "Accreditation": [
+                {
+                    "Title": "Full Stack Developer",
+                    "Institution": "GeekHubs Academy"
+                }
+            ]
+        },
+        {
+            "Title": "Bootstrap 5",
+            "Icon":"",
+            "Description": "Complemento para el desarrollo de proyectos de frontend para aplicaciones web",
+            "Accreditation": [
+                {
+                    "Title": "Full Stack Developer",
+                    "Institution": "GeekHubs Academy"
+                }
+            ]
+        },
+        {
+            "Title": "HTML5 y CSS3",
+            "Icon":"",
+            "Description": "Manejo de ambas tecnologías como complemento a mis tareas como diseñadora y de vital importancia en mi desempeño como developer",
+            "Accreditation": [
+                {
+                    "Title": "Full Stack Developer",
+                    "Institution": "GeekHubs Academy"
+                }
+            ]
+        },
+        {
+            "Title": "WordPress - Elementor",
+            "Icon":"",
+            "Description": "Manejo de ambas tecnologías como complemento a mis tareas como diseñadora y de vital importancia en mi desempeño como developer",
+            "Accreditation": [
+                {
+                    "Title": "Full Stack Developer",
+                    "Institution": "GeekHubs Academy"
+                }
+            ]
+        }
+    ]
+}
